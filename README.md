@@ -35,6 +35,9 @@ This is the main container for all screens, the main goal of this file is to inc
 
 This is the first screen all users will see, it has the title "وردل" in different boxes that move for a nice affect of color. The first screen has two buttons for navigation that lead to GameScreen.js, LoginScreen.js, and RegisterScreen.js.
 
+<img width="235" alt="image" src="https://github.com/user-attachments/assets/a446c940-3842-4cf7-848e-68c94eb91726" />
+
+
 #### GameScreen.js
 
 This screen is for the users that want to play without logging in. As previously mentioned, no points are saved for users, and there are limited words that will randomize for the player to enjoy. However, there is a winning streak available. After 3 consecutive wins, the screen will show a fire animation in the color red. If the player wins 6 times consecutively, the color of the fire will become orange. And if they win 12 times without fail, a blue fire will appear. The goal of this animation is to engage the user to keep on pushing!
