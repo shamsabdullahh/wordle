@@ -57,19 +57,28 @@ These screens are where the user can create a new account that will be saved in 
 
 The Home screen has a simple layout with just the button "العب الان" that navigates to the GameSCreenwAccounts.js file. The HomeScreen.js is the main container for the regisetred users with Tab navigation for easy navivgation. The tabs lead to three Screens: The home screen itself, the Leaderboard.js, and the Account.js for a user's personal account information. 
 
+<img width="218" alt="image" src="https://github.com/user-attachments/assets/8952882f-79d4-40d2-83eb-87d9645d7a9f" />
+
+
 
 #### GameScreenwAccounts.js (Registered Users)
 
 This file has the same idea as the GameScreen with the addition of more words, a point saver, and more hints available to assist the player.
 
+<img width="217" alt="image" src="https://github.com/user-attachments/assets/d65e711c-a160-4982-8903-7acec78a1659" />
+
+
 #### Leaderboard.js (Registered Users)
 
 The Leaderboard screen displays a flatlist of players with their earned highest points to keep them competitive and engage more with the application. The top of the screen, only the three top players are displayed with their user profile picture. The first winner gets to have a crown badge displayer over the profile picture to enhance their victory. 
+
+<img width="352" alt="image" src="https://github.com/user-attachments/assets/b29508ca-4bce-4128-beda-fc85677f5dbe" />
 
 #### Account.js (Registered Users)
 
 This screen displays the Rank badges that the user won from point collection.
 
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/1a1013d2-c93e-4624-9ead-46b13b2f4d84" />
 
 ### Additional Screens for The Logical Base of The Game
 
