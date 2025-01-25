@@ -8,7 +8,7 @@ This game is considered as an intermiediate puzzle, for all ages!
 
 
 ## Setup of The Project
-This project was made possible using the programming language React Native for mobile developement and Andriod Studio for the virtual iOS and Andriod emmulator devices.
+This project was made possible using the programming language React Native for mobile developement and Andriod Studio for the virtual iOS and Andriod emmulator devices, as well as Firebase for user authentication and to store user's winning points. 
 
 ## Screen Structure
 
@@ -132,6 +132,7 @@ Additionally, for the technical setup:
 React Native: https://reactnative.dev/
 Expo Go: https://expo.dev/go
 Andriod Studio: https://developer.android.com/studio
+Firebase: https://console.firebase.google.com/
 
 
 
