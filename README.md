@@ -49,7 +49,7 @@ This screen is for the users that want to play without logging in. As previously
 
 These screens are where the user can create a new account that will be saved in the Firebase Database to start the real fun. After the user creates the account and clicks "تسجيل", it will take them to the LoginScreen.js right away. Afterwards, the user logins in their info and it will trigger the LoadingScreen.js file for loading animation and the main page will appear which is the HomeScreen.js for registered users.
 
-<img width="225" alt="image" src="https://github.com/user-attachments/assets/1d003547-3cbb-4b69-93ee-1e43151afadb" />
+<img width="241" alt="image" src="https://github.com/user-attachments/assets/7df20eb5-3b30-4531-b4b9-8e2c82d666a1" />
 <img width="225" alt="image" src="https://github.com/user-attachments/assets/dd5cbbb3-3379-451f-93b7-a7389cd9c0cf" />
 
 
