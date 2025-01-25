@@ -112,20 +112,26 @@ This project was not made possible without the Lottie Animation Website.
 Some of the animations that were used:
 
 
-![https://lottiefiles.com/free-animation/fire-IuJfcIXKF1]
+- https://lottiefiles.com/free-animation/fire-IuJfcIXKF1
 
-![Alt text of the image]https://lottiefiles.com/free-animation/confetti-falling-ZQEtPj2AG9
+- https://lottiefiles.com/free-animation/confetti-falling-ZQEtPj2AG9
 
-![Alt text of the image]https://lottiefiles.com/animation/loading-shapes-5391802
+- https://lottiefiles.com/animation/loading-shapes-5391802
 
 
 For the Rank Badges we used:
-![Alt text of the image]https://github.com/shamsabdullahh/wordle/issues/4
-
 https://vector-images.com/clipart/clp4576843/
 
 We also manually clipped them individually to appear separately and have their own animation (fading in-out).
 
+We used the Expo Linear Gradient for the affect design layout:
+- https://docs.expo.dev/versions/latest/sdk/linear-gradient/
+
+Additionally, for the technical setup:
+
+React Native: https://reactnative.dev/
+Expo Go: https://expo.dev/go
+Andriod Studio: https://developer.android.com/studio
 
 
 
