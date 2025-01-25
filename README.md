@@ -90,13 +90,28 @@ This file keeps the updated points logic.
 
 This file contains a list of the words that will be displayed for users to play with as well as the streaks code logic. 
 
+## Running The Game
+
+In both GameScreen.js and GameScreenwAccounts.js, the user will have independent single cells with an implemented keyboard of the arabic letters to make it easier to type the letter. The letter clicked on will appear on the cell and shifts adjacent cell horizonitally. After completing all cells, the user will click on "تخمين" which will result in three cases:
+
+* If all cells are occupied with letters, the cell will shift to three different colors:
+    * Gray shade: which indicates the letter does no exist in the anonymous word.
+    * Yellow shade: the letter is correct and does exist in the anonymous word, but the position of that letter in that word is wrong!
+    * Green shade: the letter chosen is correct and in the right position.
+* If some cells did not recieve a letter from the user and the user hits enter, the screen will display a message and will not allow the user to proceed unless all cells are occupied.
+* If the user finishes all 6 tries, the game will reset as well as any winning streak they have won so far. 
+
 ## Future Work
 
 This project has enhanced our skills for using React native. From the journey, we realized that the programming language has limited some of the capabilities that we wished we could have applied such as more public resources for User Interface designs. Additionally, we wish to work on linking the points that the user gains to the Rank Badge that he will accomplish and make it appear in the Account.js file legitmately. 
 
 ## Resources & Contributions
 
+This project was not made possible without the Lottie Animation Website. 
 
+Some of the animations that were used:
+
+https://lottiefiles.com/free-animation/fire-IuJfcIXKF1
 
 
 
