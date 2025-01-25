@@ -120,7 +120,9 @@ Some of the animations that were used:
 
 
 For the Rank Badges we used:
-![Alt text of the image]https://vector-images.com/clipart/clp4576843/
+![Alt text of the image]https://github.com/shamsabdullahh/wordle/issues/4
+
+https://vector-images.com/clipart/clp4576843/
 
 We also manually clipped them individually to appear separately and have their own animation (fading in-out).
 
