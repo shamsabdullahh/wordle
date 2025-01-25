@@ -42,9 +42,15 @@ This is the first screen all users will see, it has the title "وردل" in diff
 
 This screen is for the users that want to play without logging in. As previously mentioned, no points are saved for users, and there are limited words that will randomize for the player to enjoy. The words and their hints are saved in the GameContext However, there is a winning streak available. After 3 consecutive wins, the screen will show a fire animation in the color red. If the player wins 6 times consecutively, the color of the fire will become orange. And if they win 12 times without fail, a blue fire will appear. The goal of this animation is to engage the user to keep on pushing!
 
+<img width="223" alt="image" src="https://github.com/user-attachments/assets/4f9dfc66-9de8-47b6-830a-e1c5c49ca474" />
+
+
 #### LoginScreen.js & RegisterScreen.js
 
 These screens are where the user can create a new account that will be saved in the Firebase Database to start the real fun. After the user creates the account and clicks "تسجيل", it will take them to the LoginScreen.js right away. Afterwards, the user logins in their info and it will trigger the LoadingScreen.js file for loading animation and the main page will appear which is the HomeScreen.js for registered users.
+
+<img width="225" alt="image" src="https://github.com/user-attachments/assets/1d003547-3cbb-4b69-93ee-1e43151afadb" />
+<img width="225" alt="image" src="https://github.com/user-attachments/assets/dd5cbbb3-3379-451f-93b7-a7389cd9c0cf" />
 
 
 #### HomeScreen.js (Registered Users)
@@ -65,7 +71,6 @@ The Leaderboard screen displays a flatlist of players with their earned highest 
 This screen displays the Rank badges that the user won from point collection.
 
 
-
 ### Additional Screens for The Logical Base of The Game
 
 #### GameContext.js
@@ -75,6 +80,13 @@ This file keeps the updated points logic.
 #### utils.js
 
 This file contains a list of the words that will be displayed for users to play with as well as the streaks code logic. 
+
+## Future Work
+
+This project has enhanced our skills for using React native. From the journey, we realized that the programming language has limited some of the capabilities that we wished we could have applied such as more public resources for User Interface designs. Additionally, we wish to work on linking the points that the user gains to the Rank Badge that he will accomplish and make it appear in the Account.js file legitmately. 
+
+## Resources & Contributions
+
 
 
 
