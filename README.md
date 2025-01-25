@@ -113,7 +113,14 @@ Some of the animations that were used:
 
 https://lottiefiles.com/free-animation/fire-IuJfcIXKF1
 
+https://lottiefiles.com/free-animation/confetti-falling-ZQEtPj2AG9
 
+https://lottiefiles.com/animation/loading-shapes-5391802
+
+For the Rank Badges we used:
+https://vector-images.com/clipart/clp4576843/
+
+We also manually clipped them individually to appear separately and have their own animation (fading in-out).
 
 
 
