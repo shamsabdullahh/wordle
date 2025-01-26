@@ -35,29 +35,27 @@ This is the main container for all screens, the main goal of this file is to inc
 
 This is the first screen all users will see, it has the title "وردل" in different boxes that move for a nice affect of color. The first screen has three buttons for navigation that lead to GameScreen.js by clicking on "العب", LoginScreen.js by clicking on "الدخول", and RegisterScreen.js by clicking on "تسجيل جديد".
 
-<img width="336" alt="image" src="https://github.com/user-attachments/assets/5d07d11a-cc06-411d-a039-fc7516e3bf1c" />
+
 
 
 #### GameScreen.js
 
 This screen is for the users that want to play without logging in. As previously mentioned, no points are saved for users, and there are limited words that will randomize for the player to enjoy. The words and their hints are saved in the GameContext However, there is a winning streak available. After 3 consecutive wins, the screen will show a fire animation in the color red. If the player wins 6 times consecutively, the color of the fire will become orange. And if they win 12 times without fail, a blue fire will appear. The goal of this animation is to engage the user to keep on pushing!
 
-<img width="223" alt="image" src="https://github.com/user-attachments/assets/4f9dfc66-9de8-47b6-830a-e1c5c49ca474" />
+
 
 
 #### LoginScreen.js & RegisterScreen.js
 
 These screens are where the user can create a new account that will be saved in the Firebase Database to start the real fun. After the user creates the account and clicks "تسجيل", it will take them to the LoginScreen.js right away. Afterwards, the user logins in their info and it will trigger the LoadingScreen.js file for loading animation and the main page will appear which is the HomeScreen.js for registered users.
 
-<img width="241" alt="image" src="https://github.com/user-attachments/assets/7df20eb5-3b30-4531-b4b9-8e2c82d666a1" />
-<img width="225" alt="image" src="https://github.com/user-attachments/assets/dd5cbbb3-3379-451f-93b7-a7389cd9c0cf" />
+
 
 
 #### HomeScreen.js (Registered Users)
 
 The Home screen has a simple layout with just the button "العب الان" that navigates to the GameSCreenwAccounts.js file. The HomeScreen.js is the main container for the regisetred users with Tab navigation for easy navivgation. The tabs lead to three Screens: The home screen itself, the Leaderboard.js, and the Account.js for a user's personal account information. 
 
-<img width="218" alt="image" src="https://github.com/user-attachments/assets/8952882f-79d4-40d2-83eb-87d9645d7a9f" />
 
 
 
@@ -65,20 +63,20 @@ The Home screen has a simple layout with just the button "العب الان" tha
 
 This file has the same idea as the GameScreen with the addition of more words, a point saver, and more hints available to assist the player.
 
-<img width="217" alt="image" src="https://github.com/user-attachments/assets/d65e711c-a160-4982-8903-7acec78a1659" />
+
 
 
 #### Leaderboard.js (Registered Users)
 
 The Leaderboard screen displays a flatlist of players with their earned highest points to keep them competitive and engage more with the application. The top of the screen, only the three top players are displayed with their user profile picture. The first winner gets to have a crown badge displayer over the profile picture to enhance their victory. 
 
-<img width="352" alt="image" src="https://github.com/user-attachments/assets/b29508ca-4bce-4128-beda-fc85677f5dbe" />
+
 
 #### Account.js (Registered Users)
 
 This screen displays the Rank badges that the user won from point collection.
 
-<img width="220" alt="image" src="https://github.com/user-attachments/assets/1a1013d2-c93e-4624-9ead-46b13b2f4d84" />
+
 
 ### Additional Screens for The Logical Base of The Game
 
